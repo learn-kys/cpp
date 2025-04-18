@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "Hell world";
+    int n = 10;
+    cout << "size of n " << sizeof(n) << endl;
 }
